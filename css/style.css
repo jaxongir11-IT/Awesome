@@ -247,18 +247,14 @@ header {
 .learns a {
     display: block;
     margin-top: 10px;
-    margin-left: 880px;
-    margin-right: 30px;
+    margin-left: 910px;
+    margin-right: 5px;
     color: #fff;
     text-decoration: none;
     background-color: #ff9f00;
     padding: 13px 50px;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.learns a:hover {
-    font-size: 18px;
 }
 /* /Learn section */
 
