@@ -113,7 +113,6 @@ header {
 
 .span-3:hover {
     color: #ced4da;
-    background-color: black;
     padding: 14px 60px;
     border-radius: 2px;
     font-size: 16px;
@@ -130,7 +129,6 @@ header {
     color: #acacac;
     font-weight: 600;
     font-size: 18px;
-    background-color: black;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -259,6 +257,10 @@ header {
     padding: 13px 50px;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.learns a {
+    font-size: 18px;
 }
 /* /Learn section */
 
